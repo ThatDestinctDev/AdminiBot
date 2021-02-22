@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Introducing: AdminiBot
 
-You can use the [editor on GitHub](https://github.com/ThatDestinctDev/AdminiBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+AdminiBot is a easy to use discord moderation bot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
 
-### Markdown
+**Coming Soon**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How To Set Up
 
-```markdown
-Syntax highlighted code block
+### Coming Soon
 
-# Header 1
-## Header 2
-### Header 3
+Coming Soon
 
-- Bulleted
-- List
+## Updates
 
-1. Numbered
-2. List
+` 
+1.0 [Release]
 
-**Bold** and _Italic_ and `Code` text
+Coming Soon
+`
 
-[Link](url) and ![Image](src)
-```
+## Support
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Coming Soon**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThatDestinctDev/AdminiBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
