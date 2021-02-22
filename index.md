@@ -10,15 +10,12 @@ AdminiBot is a easy to use discord moderation bot.
 
 ### Coming Soon
 
-Coming Soon
+**Coming Soon**
 
 ## Updates
-
-` 
-1.0 [Release]
-
-Coming Soon
-`
+ 
+###1.0 [Release]
+**Coming Soon**
 
 ## Support
 
